@@ -1,6 +1,6 @@
 ## 2.4 객체 매핑 시작
 
-```java
+```
 @Entity
 @Table(name="MEMBER")
 public class Member {
